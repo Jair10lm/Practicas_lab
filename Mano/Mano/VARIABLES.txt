@@ -1,0 +1,13 @@
+****CON ESTAS VARIABLES PODREMOS MOVER CADA ARTICULACIÓN DE LA MANO, HACIA ATRAS O HACIA ADELANTE RESPECTIVAMENTE****
+
+
+PARTES DE LA MANO		MINUSCULAS		MAYÚSCULAS
+
+-Hombro				h			H
+-Codo					c			C
+-Mano					m			M
+-Pulgar				a,b			A,B
+-Indice				d,e,f			D,E,F
+-Medio				g,i,j			G,I,J
+-Anular				k,l,n			K,L,N
+-Meñique				o,p,q			O,P,Q
