@@ -1,0 +1,4 @@
+﻿  SistemaSol.cpp
+c:\users\leondelvillar\desktop\sistemasol.cpp(48): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+  SistemaSolar.vcxproj -> C:\Users\LEONDELVILLAR\Desktop\P6\SistemaSolar\Debug\SistemaSolar.exe
+  SistemaSolar.vcxproj -> C:\Users\LEONDELVILLAR\Desktop\P6\SistemaSolar\Debug\SistemaSolar.pdb (Partial PDB)
